@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Order>
+  <Id>#1234</Id>
+  <Total>0</Total>
+  <Item>
+	<Name>Burger</Name>
+	<Quantity>2</Quantity>
+	<Price>6</Price>	  
+	<Modifiers>
+		<Name>Pecurke</Name>
+		<Quantity>1</Quantity>
+		<Price>0.80</Price>
+	 </Modifiers>
+	 <Modifiers>
+		<Name>Urnebes</Name>
+		<Quantity>1</Quantity>
+		<Price>1</Price>
+	 </Modifiers>
+  </Item>
+  <Item>
+	<Name>Coca Cola</Name>
+	<Quantity>1</Quantity>
+	<Price>5</Price>	  
+	<Modifiers />	
+  </Item>
+</Order>
